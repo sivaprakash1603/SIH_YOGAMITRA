@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "931045401847",
+    "firebase_url": "https://krenoviantz-yoga-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "krenoviantz-yoga",
+    "storage_bucket": "krenoviantz-yoga.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:931045401847:android:b09b9f936e72b298ca1ff2",
+        "android_client_info": {
+          "package_name": "com.yogaapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "931045401847-av8dbgnhttttbbk39kptmfd29l6ka09c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDA8YiPk_NbyYs5SsoBA07L98S9nJj0rks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "931045401847-av8dbgnhttttbbk39kptmfd29l6ka09c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
